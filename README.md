@@ -15,7 +15,7 @@ npx cypress open
 5. Two bugs have been automated and located under **integration > features > bugs**
 
 # Bugs
-8 bugs have been founded and documented in the attached pdf [Coursedog_Issues.pdf](https://github.com/ahmhas/coursedog/blob/main/Coursedog_Issues_Report.pdf)
+8 bugs have been founded and documented in the attached pdf [Coursedog_Issues.pdf](https://github.com/ahmhas/cypress-testing/blob/master/Coursedog_Issues_Report.pdf)
 * 3 Minor
 * 5 Trivial 
 
