@@ -1,0 +1,6 @@
+npx cypress open
+npx cypress run
+npx cypress run --headless
+npx cypress run --browser chrome
+npm audit fix
+
